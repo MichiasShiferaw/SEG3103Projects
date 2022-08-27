@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/Zahra/Documents/PhD/Term 7 - Spring 2022/QA/Asg 05 - Stubs and Mocks - Easy Mock/easymock-4.3-bundle/easymock-4.3/easymock-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zahra/Documents/PhD/Term 7 - Spring 2022/QA/Asg 05 - Stubs and Mocks - Easy Mock/easymock-4.3-bundle/easymock-4.3/easymock-4.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zahra/Documents/PhD/Term 7 - Spring 2022/QA/Asg 05 - Stubs and Mocks - Easy Mock/easymock-4.3-bundle/easymock-4.3/easymock-4.3-samples.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zahra/Documents/PhD/Term 7 - Spring 2022/QA/Asg 05 - Stubs and Mocks - Easy Mock/easymock-4.3-bundle/easymock-4.3/easymock-4.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zahra/Documents/PhD/Term 7 - Spring 2022/QA/Asg 05 - Stubs and Mocks - Easy Mock/easymock-4.3-bundle/easymock-4.3/easymock-4.3-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zahra/Documents/PhD/Term 7 - Spring 2022/QA/Asg 05 - Stubs and Mocks - Easy Mock/easymock-4.3-bundle/easymock-4.3/original-easymock-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zahra/Documents/PhD/Term 7 - Spring 2022/QA/Asg 05 - Stubs and Mocks - Easy Mock/easymock-4.3-bundle/easymock-4.3/original-easymock-4.3-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

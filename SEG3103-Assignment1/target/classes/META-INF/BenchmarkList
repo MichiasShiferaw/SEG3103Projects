@@ -1,0 +1,2 @@
+JMH S 24 TestDemo.ThreadBenchmark S 54 TestDemo.jmh_generated.ThreadBenchmark_Thread1_jmhTest S 7 Thread1 S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 24 TestDemo.ThreadBenchmark S 54 TestDemo.jmh_generated.ThreadBenchmark_Thread2_jmhTest S 7 Thread2 S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
